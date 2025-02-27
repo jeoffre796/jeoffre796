@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 programmer
 ----------
 
-I am a dedicated student with a passion for programming, currently diving into the world of React. My journey into coding has been exciting and rewarding, and I love creating dynamic web applications. React's component-based architecture and innovative features have truly captured my interest and enthusiasm.S
+I am a dedicated, focused student with a passion for programming, currently diving into the world of React. My journey into coding has been exciting and rewarding, and I love creating dynamic web applications. React's component-based architecture and innovative features have truly captured my interest and enthusiasm.S
 
 * 🌍  I'm based in Nairobi city
 * ✉️  You can contact me at [jeffngash066@gmail.com](mailto:jeffngash066@gmail.com)
