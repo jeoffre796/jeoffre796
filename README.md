@@ -6,9 +6,9 @@ programmer
 
 I am a dedicated, focused student with a passion for programming, currently diving into the world of React. My journey into coding has been exciting and rewarding, and I love creating dynamic web applications. React's component-based architecture and innovative features have truly captured my interest and enthusiasm.S
 
-* 🌍  I'm based in Nairobi city
+* 🌍  I'm based in Nairobi city KENYA
 * ✉️  You can contact me at [jeffngash066@gmail.com](mailto:jeffngash066@gmail.com)
-* 🧠  I'm learning basics of programming the HTML, CSS, JAVA etc.
+* 🧠  I'm a proffesional on the HTML, CSS, JAVA python etc.
 * 🤝  I'm open to collaborating on intresting projects
 * ⚡  I’m a time-traveling sock enthusiast, scouring the past and future for the world’s most comfortable and peculiar socks. My secret mission? To bring the ultimate sock experience to humanity. One day, when the world is ready, everyone will know the true power of unparalleled foot comfort
 
